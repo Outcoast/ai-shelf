@@ -1,0 +1,66 @@
+engine,run,source,type
+ChatGPT,1,Yahoo Shopping,media
+ChatGPT,1,NBC News,media
+ChatGPT,1,ChokoMag,blog
+ChatGPT,2,Geek & Gorgeous store,brand site
+ChatGPT,3,Allure,media
+ChatGPT,4,Geek & Gorgeous store,brand site
+ChatGPT,4,Allure,media
+ChatGPT,5,Geek & Gorgeous store,brand site
+Gemini,1,TODAY,media
+Gemini,2,glow-log,blog
+Gemini,2,coutureuniverse,blog
+Gemini,2,fagozon,other
+Gemini,2,NING DERMOLOGIE,other
+Gemini,3,Autum Love,blog
+Gemini,4,NeedSkincare,blog
+Gemini,4,glow-log,blog
+Gemini,5,glow-log,blog
+Gemini,5,TODAY,media
+Gemini,5,fagozon,other
+Gemini,5,Hindustan Times,media
+Google AI Mode,1,Wirecutter (NYT),review site
+Google AI Mode,1,Byrdie,media
+Google AI Mode,1,Dr. Daniel Sugai,youtube
+Google AI Mode,1,Dr. Neera Nathan,youtube
+Google AI Mode,1,TODAY,media
+Google AI Mode,2,Wirecutter (NYT),review site
+Google AI Mode,2,Dr. Daniel Sugai,youtube
+Google AI Mode,2,Allure,media
+Google AI Mode,2,Byrdie,media
+Google AI Mode,3,Dr. Sam Ellis,youtube
+Google AI Mode,3,Dr. Daniel Sugai,youtube
+Google AI Mode,3,TODAY,media
+Google AI Mode,4,Yahoo,media
+Google AI Mode,4,Marie Claire,media
+Google AI Mode,4,Dr. Shereene Idriss (2023 reel),instagram
+Google AI Mode,4,Byrdie,media
+Google AI Mode,5,r/BeautyItemsReview,reddit
+Google AI Mode,5,Yahoo,media
+Google AI Mode,5,Byrdie,media
+Google AI Mode,5,r/SkincareAddiction,reddit
+Perplexity,1,Wirecutter (NYT),review site
+Perplexity,1,TODAY,media
+Perplexity,1,Fortune,media
+Perplexity,2,Wirecutter (NYT),review site
+Perplexity,2,weather.com,other
+Perplexity,2,TODAY,media
+Perplexity,2,Fortune,media
+Perplexity,2,Good Housekeeping,media
+Perplexity,3,Wirecutter (NYT),review site
+Perplexity,3,weather.com,other
+Perplexity,3,TODAY,media
+Perplexity,3,Fortune,media
+Perplexity,3,Good Housekeeping,media
+Perplexity,3,Allure,media
+Perplexity,4,Wirecutter (NYT),review site
+Perplexity,4,weather.com,other
+Perplexity,4,TODAY,media
+Perplexity,4,Fortune,media
+Perplexity,4,Good Housekeeping,media
+Perplexity,5,Wirecutter (NYT),review site
+Perplexity,5,weather.com,other
+Perplexity,5,Fortune,media
+Perplexity,5,Good Housekeeping,media
+Perplexity,5,Allure,media
+Perplexity,5,NewBeauty,media
