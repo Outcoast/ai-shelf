@@ -28,7 +28,7 @@ Geek & Gorgeous  6/20   ███         5   5/5      1/5      0/5      0/5
 ## Use it
 
 ```
-git clone https://github.com/<you>/ai-shelf
+git clone https://github.com/Outcoast/ai-shelf
 cd ai-shelf
 cp templates/*.csv .
 # run your prompt 5x in each AI, log the brands in runs.csv
